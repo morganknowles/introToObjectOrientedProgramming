@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ This\ is\ an\ animal\ class\ that\ holds\ the\ different\ animal\ images\ for\ this\ game.\r\n\ All\ of\ the\ animals\ do\ the\ same\ thing\ but\ they\ get\ different\ images\ in\ the\ world.\r\n\ \r\n\ \r\n\ Morgan\ Knowles\r\n
+comment1.params=aNum
+comment1.target=Animal(int)
+comment1.text=\r\n\ Constructor\ method\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Fall\ from\ the\ sky,\ slowly\ rotating.\r\n
+comment3.params=
+comment3.target=void\ checkEdge()
+comment3.text=\r\n\ Check\ to\ see\ if\ the\ Animal\ has\ reached\ the\ edge.\ \r\n\ If\ it\ has,\ placeSplat,\ remove\ Animal,\ and\ play\ a\ sound.\r\n\ \r\n
+comment4.params=
+comment4.target=void\ addSaved()
+comment4.text=\r\n\ Add\ saved\ animal\ count\ to\ the\ world.\r\n
+comment5.params=
+comment5.target=void\ addLost()
+comment5.text=\r\n\ Add\ lost\ animal\ count\ to\ the\ world.\r\n
+comment6.params=x\ y\ numFragments
+comment6.target=void\ placeSplat(int,\ int,\ int)
+comment6.text=\r\n\ placeSplat\ is\ similar\ to\ Debris\ from\ Explosion.\r\n
+numComments=7

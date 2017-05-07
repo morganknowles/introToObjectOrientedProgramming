@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ The\ Vehicle\ collects\ the\ animals.\ \r\n\ \r\n\ @author\ Morgan\ Knowles\r\n
+comment1.params=
+comment1.target=Vehicle()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment3.text=\r\n\ Check\ whether\ a\ keyboard\ key\ has\ been\ pressed\ and\ react\ if\ it\ has.\r\n
+comment4.params=
+comment4.target=void\ checkBoard()
+comment4.text=\r\n\ Ensure\ that\ the\ Vehicle\ does\ not\ drive\ into\ the\r\n\ right\ edge\ of\ the\ world\ that\ contains\ the\ game\ info.\ If\ the\ \r\n\ Vehicle\ tries\ to\ drive\ into\ it,\ it\ will\ be\ returned\ to\ its\ \r\n\ starting\ place.\r\n
+comment5.params=
+comment5.target=void\ checkBomb()
+comment5.text=\r\n\ Check\ to\ see\ if\ the\ a\ Bomb\ is\ touching\ the\ Vehicle.\ If\ this\r\n\ is\ true,\ then\ the\ game\ is\ stopped.\r\n
+comment6.params=
+comment6.target=void\ youLose()
+comment6.text=\r\n\ This\ shows\ the\ Lose\ message.\ \r\n
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bomb
+comment0.text=\r\n\ The\ Bomb\ spins\ and\ moves\ towards\ the\ bottom\ of\ the\ world.\r\n\ If\ the\ Bomb\ hits\ the\ Vehicle\ then\ its\ game\ over.\r\n
+comment1.params=
+comment1.target=Bomb()
+comment1.text=\r\n\ Constructor\ method.\ Sets\ the\ speed\ and\ rotation\ of\ the\ Bomb.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Fall\ from\ the\ sky,\ slowly\ rotating.\r\n
+comment3.params=
+comment3.target=void\ checkEdge()
+comment3.text=\r\n\ If\ the\ Bomb\ is\ at\ the\ edge\ of\ the\ world,\ the\ Bomb\ disappears.\r\n
+numComments=4
